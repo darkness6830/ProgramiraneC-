@@ -1,0 +1,7 @@
+cd Examination
+dir
+git status
+(edit some file)
+git add .
+git commit -m "changes"
+git push
