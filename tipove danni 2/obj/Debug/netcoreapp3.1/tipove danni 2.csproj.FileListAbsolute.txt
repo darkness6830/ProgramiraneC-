@@ -1,0 +1,14 @@
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\bin\Debug\netcoreapp3.1\tipove danni 2.exe
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\bin\Debug\netcoreapp3.1\tipove danni 2.deps.json
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\bin\Debug\netcoreapp3.1\tipove danni 2.runtimeconfig.json
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\bin\Debug\netcoreapp3.1\tipove danni 2.runtimeconfig.dev.json
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\bin\Debug\netcoreapp3.1\tipove danni 2.dll
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\bin\Debug\netcoreapp3.1\tipove danni 2.pdb
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.csproj.AssemblyReference.cache
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.AssemblyInfoInputs.cache
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.AssemblyInfo.cs
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.csproj.CoreCompileInputs.cache
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.dll
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.pdb
+D:\Users\U302\Documents\9a_UvodPR\smth\tipove danni 2\obj\Debug\netcoreapp3.1\tipove danni 2.genruntimeconfig.cache
